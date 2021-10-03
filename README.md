@@ -1,7 +1,6 @@
 ## Current Interests
 - C++
 - Embedded software
-- Python
 
 ## Contact Info
 - aidan.stickan@gmail.com
