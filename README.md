@@ -1,8 +1,4 @@
-## Current Interests
-- C++
-- Embedded software
-
 ## Contact Info
-- aidan.stickan@gmail.com
+- aidan.stickan [at] gmail.com
 - https://www.linkedin.com/in/aidan-stickan/
 
